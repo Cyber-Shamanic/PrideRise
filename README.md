@@ -1,4 +1,12 @@
+<div dir="rtl">
+
 # 📚 גאווה מול התנשאות — **PrideRise (PR)**
+
+<img width="1024" height="1536" alt="גאווה מול התנשאות - מפת עומק" src="גאווה מול התנשאות - מפת עומק.png" />
+
+<img width="1536" height="1024" alt="Gavah vs  Tenashut - A visual comparison" src="Gavah vs. Tenashut - A visual comparison.png" />
+
+
 
 ### 🔥 מפת עומק מתוך *ספר המידות* לרבי נחמן מברסלב זיע״א
 
